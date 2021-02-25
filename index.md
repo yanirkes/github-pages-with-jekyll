@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Yanir First Blog
 
-I'm glad you are here. I plan to talk about ...
+I yet know what I am going to do with this, however, I know
+It would be great!
